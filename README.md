@@ -1,5 +1,3 @@
-Sure, I can help you convert your resume into a GitHub-friendly format. Here's a markdown version of your resume that you can use on GitHub:
-
 ```markdown
 # Sai Praneeth Sanaboyina
 
