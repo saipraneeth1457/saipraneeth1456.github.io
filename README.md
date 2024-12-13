@@ -1,4 +1,3 @@
-```markdown
 # Sai Praneeth Sanaboyina
 
 To seek and maintain a full-time position that offers professional challenges utilizing interpersonal skills, excellent time management, and problem-solving skills.
@@ -98,6 +97,3 @@ Gitam University
 - Watching Movies and TV Series
 - Reading Books
 - Travelling
-```
-
-You can copy this markdown text and use it in your GitHub profile or repository. If you need any further adjustments or additions, feel free to let me know!
